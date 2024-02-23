@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Davis
 ====================================================================================================================================
 
-Full Stack Developer and Data Engineer
+Reservoir Data Engineer and Full Stack Developer in Oil & Gas Industry 
 --------------------------------------
 
 I am a full stack developer and data engineer who is advanced in Vanilla Python and SQL; and proficient in HTML, CSS and Vanilla JavaScript
